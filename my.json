@@ -97,7 +97,7 @@
          "url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_17_MCMIPC"
       }
    ],
-   "sci:citation": "Bah, Gunshor, Schmit, Generation of GOES-16 True Color Imagery without a\nGreen Band, 2018. [doi:10.1029/2018EA000379](https://doi.org/10.1029/2018EA000379)",
+   "sci:citation": "Bah, Gunshor, Schmit, Generation of GOES-16 True Color Imagery without a\nGreen Band, 2018. [doi](https://doi.org/10.1029/2018EA000379)",
    "sci:publications": [
       {
          "citation": "Product User Guide (PUG) Volume 5, [L2+ Products](\nhttps://www.goes-r.gov/products/docs/PUG-L2+-vol5.pdf).\n"
