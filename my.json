@@ -41,7 +41,7 @@
       "ospo",
       "weather"
    ],
-   "license": "proprietary",
+   "license": "[GOES](https://www.goes.noaa.gov)",
    "links": [
       {
          "href": "https://earthengine-stac.storage.googleapis.com/catalog/NOAA/GOES/NOAA_GOES_17_MCMIPC.json",
@@ -276,7 +276,7 @@
       "eo:bands": [
          {
             "center_wavelength": 0.46999999999999997,
-            "description": "Visible - Blue\n\nDaytime aerosol over land, coastal water mapping.",
+            "description": "[GOES](https://www.goes.noaa.gov) Visible - Blue\n\nDaytime aerosol over land, coastal water mapping.",
             "gee:units": "Reflectance factor",
             "gee:wavelength": "0.45-0.49&micro;m",
             "name": "CMI_C01"
