@@ -1,14 +1,3 @@
 {
    "description": "[GOES](https://www.goes.noaa.gov) satellites are geostationary weather satellites run by NOAA.\n\n\nThe Cloud and Moisture Imagery products are all at 2km\nresolution. Bands 1-6 are reflective. The dimensionless \"reflectance factor\" quantity is\nnormalized by the solar zenith angle. These bands support the characterization of clouds,\nvegetation, snow/ice, and aerosols. Bands 7-16 are emissive. The brightness temperature at the\nTop-Of-Atmosphere (TOA) is measured in Kelvin. These bands support the characterization of the\nsurface, clouds, water vapor, ozone, volcanic ash, and dust based on emissive properties.\n\n[README](https://www.ncdc.noaa.gov/data-access/satellite-data/goes-r-series-satellites#CMIP)\n",
-
-   "gee:citation": "[GOES](https://www.goes.noaa.gov) satellites are geostationary weather satellites run by NOAA.\n\n\nThe Cloud and Moisture Imagery products are all at 2km\nresolution. Bands 1-6 are reflective. The dimensionless \"reflectance factor\" quantity is\nnormalized by the solar zenith angle. These bands support the characterization of clouds,\nvegetation, snow/ice, and aerosols. Bands 7-16 are emissive. The brightness temperature at the\nTop-Of-Atmosphere (TOA) is measured in Kelvin. These bands support the characterization of the\nsurface, clouds, water vapor, ozone, volcanic ash, and dust based on emissive properties.\n\n[README](https://www.ncdc.noaa.gov/data-access/satellite-data/goes-r-series-satellites#CMIP)\n",
-   "sci:publications": [
-      {
-         "citation": "Product User Guide (PUG) Volume 5, [L2+ Products](\nhttps://www.goes-r.gov/products/docs/PUG-L2+-vol5.pdf).\n"
-      },
-      {
-         "citation": "Schmit, T., Griffith, P., et al, (2016), A closer look at the ABI on the GOES-R series, Bull.\nAmer. Meteor. Soc., 98(4), 681-698.\n[doi:10.1175/BAMS-D-15-00230.1](https://doi.org/10.1175/BAMS-D-15-00230.1)\n",
-         "doi": "10.1175/BAMS-D-15-00230.1"
-      }
-   ],
 }
