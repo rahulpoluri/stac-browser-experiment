@@ -21,7 +21,7 @@
       }
    },
    "gee:interval": {
-      "interval": "description",
+      "interval": "[GOES](https://www.goes.noaa.gov)",
       "type": "cadence",
       "unit": "minute"
    },
