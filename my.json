@@ -41,7 +41,7 @@
       "ospo",
       "weather"
    ],
-   "license": "[GOES](https://www.goes.noaa.gov)",
+   "license": "Hello alll [GOES](https://www.goes.noaa.gov)",
    "links": [
       {
          "href": "https://earthengine-stac.storage.googleapis.com/catalog/NOAA/GOES/NOAA_GOES_17_MCMIPC.json",
