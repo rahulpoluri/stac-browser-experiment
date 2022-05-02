@@ -21,7 +21,7 @@
       }
    },
    "gee:interval": {
-      "interval": 10,
+      "interval": "description",
       "type": "cadence",
       "unit": "minute"
    },
