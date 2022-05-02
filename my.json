@@ -25,7 +25,7 @@
       "type": "cadence",
       "unit": "minute"
    },
-   "gee:terms_of_use": "NOAA data, information, and products, regardless of the method of delivery,\nare not subject to copyright and carry no restrictions on their subsequent\nuse by the public. Once obtained, they may be put to any lawful use.\n",
+   "gee:terms_of_use": "NOAA data, [GOES](https://www.goes.noaa.gov) information, and products, regardless of the method of delivery,\nare not subject to copyright and carry no restrictions on their subsequent\nuse by the public. Once obtained, they may be put to any lawful use.\n",
    "gee:type": "image_collection",
    "id": "NOAA/GOES/17/MCMIPC",
    "keywords": [
